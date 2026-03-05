@@ -5,3 +5,6 @@ pack_url_backup=https://mirror.ghproxy.com/https://github.com/MINIMAP-SoulF/SFmi
 
 exe_version=1.0
 exe_download_url=
+
+
+EXE_URL=baidu.com
