@@ -1,1 +1,6 @@
+pack_hash=8801099b95f4ed102d3d1e0a0402c1169213c54bf5cd19ce9b44957a03c3a7a4
+pack_size=41137782
+pack_url=https://github.com/MINIMAP-SoulF/SFminimap-data/releases/latest/download/resource.pack
 
+exe_version=1.0
+exe_download_url=
