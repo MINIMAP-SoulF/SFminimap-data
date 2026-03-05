@@ -7,4 +7,4 @@ exe_version=1.0
 exe_download_url=
 
 
-EXE_URL=baidu.com
+EXE_URL=
