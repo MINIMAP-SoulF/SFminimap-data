@@ -1,5 +1,5 @@
-pack_hash=8801099b95f4ed102d3d1e0a0402c1169213c54bf5cd19ce9b44957a03c3a7a4
-pack_size=41137782
+pack_hash=48f232f6f22913452528fa36eaf74250abdfbc8ee372310b4e7572d76148cbc4
+pack_size=41160323
 pack_url=https://github.com/MINIMAP-SoulF/SFminimap-data/releases/latest/download/resource.pack
 pack_url_backup=https://mirror.ghproxy.com/https://github.com/MINIMAP-SoulF/SFminimap-data/releases/latest/download/resource.pack
 
@@ -7,4 +7,4 @@ exe_version=1.0
 exe_download_url=
 
 
-EXE_URL=
+EXE_URL=https://afdian.com/a/CREATE_SF
