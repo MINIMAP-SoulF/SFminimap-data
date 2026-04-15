@@ -1,4 +1,4 @@
-pack_hash=101f138e2139673670cb81febb35437b4f89f9515c741e7c13964e882ee2633f
+pack_hash=f4763ca578a4997de296fc06bf5bea6addd8ca80a5a3f2ff797ec2d426627377
 pack_size=41160323
 pack_url=https://github.com/MINIMAP-SoulF/SFminimap-data/releases/latest/download/resource.pack
 pack_url_backup=https://mirror.ghproxy.com/https://github.com/MINIMAP-SoulF/SFminimap-data/releases/latest/download/resource.pack
