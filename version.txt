@@ -7,4 +7,4 @@ exe_version=1.0
 exe_download_url=
 
 
-EXE_URL=localhost
+EXE_URL=https://sfminimap-update-log.pages.dev/index.html
